@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-List-By-Shashwat/static/css/main.f1f84118.css",
+    "main.js": "/Todo-List-By-Shashwat/static/js/main.70f6f915.js",
+    "index.html": "/Todo-List-By-Shashwat/index.html",
+    "main.f1f84118.css.map": "/Todo-List-By-Shashwat/static/css/main.f1f84118.css.map",
+    "main.70f6f915.js.map": "/Todo-List-By-Shashwat/static/js/main.70f6f915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f84118.css",
+    "static/js/main.70f6f915.js"
+  ]
+}
